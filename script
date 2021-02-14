@@ -1,0 +1,3 @@
+#!/bin/bash
+gzip card
+gunzip -c card.gz
