@@ -1,0 +1,4 @@
+#!/bin/bash
+cd ./valentines
+gzip card
+gunzip -c card.gz
